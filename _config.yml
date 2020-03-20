@@ -9,7 +9,7 @@ name: Code for Canada - TC:Marine Safety
 description: Code for Canada fellows in the Marine Safety and Security division of Transport Canda
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ../images/cfc-web-logo.png
+avatar: /tc-marine-safety/images/cfc-web-logo.png
 
 #
 # Flags below are optional
