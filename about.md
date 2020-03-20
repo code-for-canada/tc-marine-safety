@@ -6,10 +6,19 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Contact the Fellows
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Keith Colbourne, Product Manager
 
-### Contact me
+* Email: [keith.colbourne@codefor.ca](mailto:keith.colbourne@codefor.ca)
+* Twitter: [@DoveBomb](https://twitter.com/DoveBomb)
 
-[email@domain.com](mailto:email@domain.com)
+#### Kay Nadalin, User Experience Designer
+
+* Email: [kay.nadalin@codefor.ca](mailto:kay.nadalin@codefor.ca)
+* Twitter: [@KayNadalin](https://twitter.com/KayNadalin)
+
+#### Alexandre Sanscartier, Software Developer
+
+* Email: [alexandre.sanscartier@codefor.ca](mailto:alexandre.sanscartier@codefor.ca)
+* Twitter: [@AlexSansrire](https://twitter.com/AlexSansrire)
